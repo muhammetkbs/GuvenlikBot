@@ -1,0 +1,15 @@
+setuptools
+pyrogram
+tgcrypto
+asyncio
+aiohttp
+python-dotenv
+tinydb
+dnspython
+pyfiglet
+rich
+requests
+parsel
+asyncio
+progress
+pytz
