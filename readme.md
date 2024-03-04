@@ -6,9 +6,9 @@ Telegramdaki gizli kanal ve gruplarınıza bot erişimini engellerken kullanıc�
 
 - Grup linkini hiçbir yerde public olarak paylaşmamış olursunuz, böylece telegramın
 
-  ```
+  "
   Herkese açık davet bağlantılarına sahip özel kanalların, içerik anlaşmazlıkları söz konusu olduğunda herkese açık kanallarla aynı şekilde ele alınacağını lütfen unutmayın.
-  ```
+  "
 
   poliçesi gereği kanalınız açık kanal olarak değerlendirilmez.
 
