@@ -14,6 +14,7 @@ async def start_buton(client: Client, message: Message):
                                     quote=True,
                                     disable_web_page_preview=True
                                     )
+   
     # ------------------------------------------------------------- Başlangıç >
     mesaj = f"""Merhaba **{message.from_user.first_name}**, ----------- Hoşgeldin!
 

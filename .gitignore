@@ -129,3 +129,4 @@ dmypy.json
 
 *.session
 *_DB.json
+**/.DS_Store
